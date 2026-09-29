@@ -1,0 +1,6 @@
+{
+  "name": "HEXANOD - Hyperlocal Monsoon Advisor",
+  "description": "Hyperlocal Monsoon Onset & Break Advisory System for Smart India Hackathon 2026 (SIH26086) with village-scale forecasting and farmer advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
